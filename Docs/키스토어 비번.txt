@@ -1,0 +1,4 @@
+키스토어 키이름
+benaswars.keystore
+비밀 번호 
+123456

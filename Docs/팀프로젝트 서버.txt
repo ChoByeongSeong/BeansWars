@@ -1,0 +1,5 @@
+tortoiseSVN
+
+svn://121.161.123.53/ProjectTeam1/
+
+obj Temp *.suo *.user *.pidb *.userprefs *.csproj *.pidb *.sln *.csproj *.unityproj Library Temp
